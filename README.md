@@ -10,8 +10,9 @@ I'm mainly a [Ruby on Rails](https://rubyonrails.org/) developer working with [S
 📫 How to reach me
 You can contact me through [Linkedin](https://www.linkedin.com/in/jean-motte/) or by email at <jean.motte@audencia.com>.
 
-📊 My Github Stats
-![JeanMotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanMotte&show_icons=true&theme=tokyonight)
+📊 My Github Stats <br>
+
+![JeanMotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanMotte&show_icons=true&theme=tokyonight) <br>
 
 Here are some ideas to get you started:
 
