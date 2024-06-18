@@ -8,6 +8,7 @@ I'm mainly a [Ruby on Rails](https://rubyonrails.org/) developer working with [S
 - Currently working on a personal project including the use of public API
 
 📫 How to reach me
+
 You can contact me through [Linkedin](https://www.linkedin.com/in/jean-motte/) or by email at <jean.motte@audencia.com>.
 
 📊 My Github Stats <br>
