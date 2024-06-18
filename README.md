@@ -14,7 +14,7 @@ You can contact me through [Linkedin](https://www.linkedin.com/in/jean-motte/) o
 
 ![JeanMotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanMotte&show_icons=true&theme=tokyonight) <br>
 
-Here are some ideas to get you started:
+Other info about me:
 
 - 🔭 I’m currently working on a personal project including the use of a public API
 - 🌱 I’m currently deepening my RoR and JS skills before considering moving onto another stack
